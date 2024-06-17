@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fresh Pasta Making Business</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f8f8;
+        }
+        header {
+            background-color: #ff6347;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #ff8c69;
+            padding: 10px;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        section {
+            padding: 20px;
+            margin: 20px auto;
+            max-width: 800px;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #ff6347;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Fresh Pasta Making Business</h1>
+    </header>
+    <nav>
+        <a href="#about">About Us</a>
+        <a href="#products">Products</a>
+        <a href="#contact">Contact Us</a>
+    </nav>
+    <section id="about">
+        <h2>About Us</h2>
+        <p>Welcome to our fresh pasta making business! We are passionate about crafting the finest and freshest pasta using traditional techniques and the highest quality ingredients. Our mission is to bring the taste of authentic Italian pasta to your table.</p>
+    </section>
+    <section id="products">
+        <h2>Our Products</h2>
+        <ul>
+            <li>Spaghetti</li>
+            <li>Fettuccine</li>
+            <li>Ravioli</li>
+            <li>Tagliatelle</li>
+            <li>Penne</li>
+        </ul>
+    </section>
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>If you have any questions or would like to place an order, please contact us at:</p>
+        <p>Email: info@freshpasta.com</p>
+        <p>Phone: (123) 456-7890</p>
+    </section>
+    <footer>
+        <p>&copy; 2024 Fresh Pasta Making Business. All rights reserved.</p>
+    </footer>
+</body>
+</html>
